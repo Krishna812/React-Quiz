@@ -2,9 +2,7 @@
        ✨  Quiz Web App  ✨
 </h1>
  
-- **Frontend:** HTML,CSS,React Js, Java Script, Bootstrap, Chakra UI 
-- **Version Control:** Git and GitHub
-- **Hosting:** Netlify
+- **Frontend:** HTML,CSS,React Js, Java Script, Bootstrap, Chakra UI y
 - **Code Editor and tools**: VS Code
 
  <br />
