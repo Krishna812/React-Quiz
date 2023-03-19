@@ -2,7 +2,7 @@
        ✨  Quiz Web App  ✨
 </h1>
  
-- **Frontend:** HTML,CSS,React Js, Java Script, Bootstrap, Chakra UI y
+- **Frontend:** HTML,CSS,React Js, Java Script, Bootstrap, Chakra UI 
 - **Code Editor and tools**: VS Code
 
  <br />
